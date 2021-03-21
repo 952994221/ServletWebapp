@@ -23,7 +23,7 @@
 ![](https://github.com/952994221/ServletWebapp/blob/main/images/user_info.png)
 
 - 修改密码
-![](https://github.com/952994221/ServletWebapp/blob/main/images/user_passport.png)
+![](https://github.com/952994221/ServletWebapp/blob/main/images/user_password.png)
 
 - 管理发布信息
 ![](https://github.com/952994221/ServletWebapp/blob/main/images/user_issue.png)
