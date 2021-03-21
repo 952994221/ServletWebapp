@@ -3,7 +3,7 @@
 基于Servlet的校园失物招领网站
 ![](https://github.com/952994221/ServletWebapp/blob/main/images/preview.png)
 
-前端：JPS + bootstrap + HTML
+前端：JSP + bootstrap + HTML
 
 后端：Servlet + c3p0连接池 + mysql
 
@@ -42,6 +42,7 @@
 ![](https://github.com/952994221/ServletWebapp/blob/main/images/issue.png)
 
 - 修改发布信息
+![](https://github.com/952994221/ServletWebapp/blob/main/images/change_issue.png)
 
 
 ## 管理员功能
