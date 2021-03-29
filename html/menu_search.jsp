@@ -12,7 +12,7 @@
 		typeNamex="";
 	}
 %>
-<script type="text/javascript" data-genuitec-lp-enabled="false" data-genuitec-file-id="wc1-42" data-genuitec-path="/findu/WebRoot/html/menu_search.jsp">
+<script type="text/javascript">
 	window.onload = function() {
 		var searchElement = document.getElementById("Search");//获得搜索框
 		var div = document.getElementById("context");//获得提示框

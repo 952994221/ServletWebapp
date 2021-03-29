@@ -132,8 +132,8 @@ var elem=$('#container ul');
 });
 </script>
 <!-- //switcher-grid and list alignment -->
-<script>"undefined"==typeof CODE_LIVE&&(!function(e){var t={nonSecure:"9819",secure:"9828"},c={nonSecure:"http://",secure:"https://"},r={nonSecure:"127.0.0.1",secure:"gapdebug.local.genuitec.com"},n="https:"===window.location.protocol?"secure":"nonSecure";script=e.createElement("script"),script.type="text/javascript",script.async=!0,script.src=c[n]+r[n]+":"+t[n]+"/codelive-assets/bundle.js",e.getElementsByTagName("head")[0].appendChild(script)}(document),CODE_LIVE=!0);</script></head>
-<body data-genuitec-lp-enabled="false" data-genuitec-file-id="wc1-1" data-genuitec-path="/findu/WebRoot/html/all-classifieds.jsp">
+</head>
+<body>
 	<%@include file="head.jsp"%>
 	<%@include file="menu_search.jsp" %>
 	<!-- breadcrumbs
@@ -144,7 +144,7 @@ var elem=$('#container ul');
 	</div>
 	//breadcrumbs -->
 	<!-- Products -->
-	<div class="total-ads main-grid-border" data-genuitec-lp-enabled="false" data-genuitec-file-id="wc1-1" data-genuitec-path="/findu/WebRoot/html/all-classifieds.jsp">
+	<div class="total-ads main-grid-border">
 		<div class="container">
 			<div class="all-categories">
 				<!-- <h3> <a href="/FindU/html/all-classifieds.jsp">所有分类</a></h3> -->

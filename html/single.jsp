@@ -95,9 +95,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     //language-select -->
     <link rel="stylesheet" href="css/flexslider.css" media="screen" />
     <!-- flexslider css -->
-<script>"undefined"==typeof CODE_LIVE&&(!function(e){var t={nonSecure:"9819",secure:"9828"},c={nonSecure:"http://",secure:"https://"},r={nonSecure:"127.0.0.1",secure:"gapdebug.local.genuitec.com"},n="https:"===window.location.protocol?"secure":"nonSecure";script=e.createElement("script"),script.type="text/javascript",script.async=!0,script.src=c[n]+r[n]+":"+t[n]+"/codelive-assets/bundle.js",e.getElementsByTagName("head")[0].appendChild(script)}(document),CODE_LIVE=!0);</script></head>
+</head>
 
-<body data-genuitec-lp-enabled="false" data-genuitec-file-id="wc1-57" data-genuitec-path="/findu/WebRoot/html/single.jsp">
+<body>
     <%@include file="head.jsp"%>
 	<%@include file="menu_search.jsp" %>
     <!-- breadcrumbs
@@ -117,7 +117,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     </div>
     //breadcrumbs -->
     <!--single-page-->
-    <div class="single-page main-grid-border" data-genuitec-lp-enabled="false" data-genuitec-file-id="wc1-57" data-genuitec-path="/findu/WebRoot/html/single.jsp">
+    <div class="single-page main-grid-border">
         <div class="container">
             <div class="product-desc">
                 <div class="col-md-7 product-view">

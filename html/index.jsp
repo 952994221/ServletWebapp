@@ -42,8 +42,8 @@
 
 <link href="/FindU/html/css/style.css" rel="stylesheet" type="text/css" media="all" />
 <!-- style.css -->
-<script>"undefined"==typeof CODE_LIVE&&(!function(e){var t={nonSecure:"9819",secure:"9828"},c={nonSecure:"http://",secure:"https://"},r={nonSecure:"127.0.0.1",secure:"gapdebug.local.genuitec.com"},n="https:"===window.location.protocol?"secure":"nonSecure";script=e.createElement("script"),script.type="text/javascript",script.async=!0,script.src=c[n]+r[n]+":"+t[n]+"/codelive-assets/bundle.js",e.getElementsByTagName("head")[0].appendChild(script)}(document),CODE_LIVE=!0);</script></head>
-<body data-genuitec-lp-enabled="false" data-genuitec-file-id="wc1-33" data-genuitec-path="/findu/WebRoot/html/index.jsp">
+</head>
+<body>
 	<%@include file="head.jsp"%>
 	<%@include file="menu_search.jsp"%>
 
@@ -80,7 +80,7 @@
 	</div>
 	 //Slider -->
 	<!-- content-starts-here -->
-	<div class="main-content" data-genuitec-lp-enabled="false" data-genuitec-file-id="wc1-33" data-genuitec-path="/findu/WebRoot/html/index.jsp">
+	<div class="main-content">
 		<div class="w3-categories">
 			<h3>物品类型</h3>
 			<div class="container">

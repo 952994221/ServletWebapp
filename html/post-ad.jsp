@@ -119,9 +119,9 @@
 	.ui-timepicker-rtl dl dt{ float: right; clear: right; }
 	.ui-timepicker-rtl dl dd { margin: 0 45% 10px 10px; }
 	</style>
-<script>"undefined"==typeof CODE_LIVE&&(!function(e){var t={nonSecure:"9819",secure:"9828"},c={nonSecure:"http://",secure:"https://"},r={nonSecure:"127.0.0.1",secure:"gapdebug.local.genuitec.com"},n="https:"===window.location.protocol?"secure":"nonSecure";script=e.createElement("script"),script.type="text/javascript",script.async=!0,script.src=c[n]+r[n]+":"+t[n]+"/codelive-assets/bundle.js",e.getElementsByTagName("head")[0].appendChild(script)}(document),CODE_LIVE=!0);</script></head>
+</head>
 
-<body data-genuitec-lp-enabled="false" data-genuitec-file-id="wc1-49" data-genuitec-path="/findu/WebRoot/html/post-ad.jsp">
+<body>
     <%@include file="head.jsp"%>
 	<%@include file="menu_search.jsp" %>
     <!-- breadcrumbs
@@ -132,7 +132,7 @@
     </div>
     //breadcrumbs -->
     <!-- Submit Ad -->
-    <div class="submit-ad main-grid-border" data-genuitec-lp-enabled="false" data-genuitec-file-id="wc1-49" data-genuitec-path="/findu/WebRoot/html/post-ad.jsp">
+    <div class="submit-ad main-grid-border">
         <div class="container">
             <h2 class="w3-head">发布失物<span class="postmsg"><%=msg %></span></h2>
             <div class="post-ad-form">

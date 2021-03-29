@@ -12,7 +12,7 @@
 		name = u.getName();
 	}
 %>
-<script type="text/javascript" data-genuitec-lp-enabled="false" data-genuitec-file-id="wc1-30" data-genuitec-path="/findu/WebRoot/html/head.jsp">
+<script type="text/javascript">
 	function changeText_over(a) {
 		a.style.color = "white";
 	}
@@ -96,63 +96,7 @@
 				<%-- <li class="dropdown head-dpdn">
 						<a href="/FindU/html/user-info.jsp" aria-expanded="false"><i class="fa fa-user" aria-hidden="true"></i> <%=name %></a>
 					</li> --%>
-				<!-- <li class="dropdown head-dpdn"><a href="/FindU/html/help.jsp"><i
-						class="fa fa-question-circle" aria-hidden="true"></i> 帮助</a>
-				</li>
-				<li class="dropdown head-dpdn"><a href="#"><span
-						class="active uls-trigger"><i class="fa fa-language"
-							aria-hidden="true"></i>languages</span> </a>
-				</li> -->
-				<!-- Large modal
-				<li class="dropdown head-dpdn">
-					<div class="header-right">
-					<div class="selectregion">
-							<button class="btn btn-primary" data-toggle="modal"
-								data-target="#myModal">
-								<i class="fa fa-globe" aria-hidden="true"></i>选择区域
-							</button>
-							<div class="modal fade" id="myModal" tabindex="-1" role="dialog"
-								aria-hidden="true">
-								<div class="modal-dialog modal-lg">
-									<div class="modal-content">
-										<div class="modal-header">
-											<button type="button" class="close" data-dismiss="modal"
-												aria-hidden="true">&times;</button>
-											<h4 class="modal-title" id="myModalLabel">选择你的区域</h4>
-										</div>
-										<div class="modal-body">
-											<form class="form-horizontal" action="#" method="get">
-												<div class="form-group">
-													<select id="basic2" class="show-tick form-control" multiple>
-														<optgroup label="热门区域">
-															<option selected style="display:none;color:#eee;">选择区域</option>
-															<option>西校区食堂</option>
-															<option>东校区食堂</option>
-															
-														</optgroup>
-														<optgroup label="更多区域">
-															<optgroup label="教学区">
-																<option>教学楼西侧</option>
-																<option>教学楼东侧</option>
-															
-															</optgroup>
-															<optgroup label="宿舍区">
-																<option>宿舍楼西侧</option>
-																<option>宿舍楼东侧</option>
-															
-															</optgroup>
-														</optgroup>
-														</optgroup>
-													</select>
-												</div>
-											</form>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</li>-->
+				
 			</ul>
 		</div>
 

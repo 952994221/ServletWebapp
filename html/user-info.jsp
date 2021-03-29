@@ -100,9 +100,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             padding-left: 10px;
         }
     </style>
-<script>"undefined"==typeof CODE_LIVE&&(!function(e){var t={nonSecure:"9819",secure:"9828"},c={nonSecure:"http://",secure:"https://"},r={nonSecure:"127.0.0.1",secure:"gapdebug.local.genuitec.com"},n="https:"===window.location.protocol?"secure":"nonSecure";script=e.createElement("script"),script.type="text/javascript",script.async=!0,script.src=c[n]+r[n]+":"+t[n]+"/codelive-assets/bundle.js",e.getElementsByTagName("head")[0].appendChild(script)}(document),CODE_LIVE=!0);</script></head>
+</head>
 
-<body data-genuitec-lp-enabled="false" data-genuitec-file-id="wc1-62" data-genuitec-path="/findu/WebRoot/html/user-info.jsp">
+<body>
     <%@include file="head.jsp"%>
 	<%@include file="menu_search.jsp" %>
    <body>
@@ -121,8 +121,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 <li style="display: inline;"><a href="usermanage.jsp" target="right" style="color:#0099e5"><!--<i class="fa fa-user" aria-hidden="true"></i>-->用户管理</a></li>
                 <li style="display: inline;"><a href="postmanage.jsp" target="right" style="color:#0099e5"><!--<i class="fa fa-key" aria-hidden="true"></i>-->发布管理</a></li>
                 <% } %>
-                <!--<li><a href="applymanage.jsp" target="right"><i class="fa fa-cog" aria-hidden="true"></i> 申领管理</a></li>-->
-                <!--<li><a href="myapply.jsp" target="right"><i class="fa fa-plus-circle" aria-hidden="true"></i> 我的申领</a></li>-->
             </ul>
 
         </div>
